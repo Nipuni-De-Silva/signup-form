@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Sign Up Form in React.js
+
+![signup form](https://github.com/Nipuni-De-Silva/signup-form/assets/80912329/978b4f87-2467-4c6f-afda-1342254dea21)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
